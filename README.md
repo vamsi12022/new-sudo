@@ -244,4 +244,4 @@ For issues and questions:
 
 ## Disclaimer
 
-This system manages sudo privileges on Ubuntu systems. Use with caution and ensure proper security measures are in place. Always test in a non-production environment first.
+This system manages sudo privileges on Ubuntu systems. Use with caution and ensure proper security measures are in place. Always test in a non-production environment first/
